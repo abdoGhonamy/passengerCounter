@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(pxfuel\ \(3\).jpg);
+    background-position: top;
+    ba
+}
+
+.content{
+    width: 80%;
+    height: 30%;
+    background-color: #ddd  ;
+    border: black 3px solid; 
+    border-radius: 10%;
+    text-align: center; 
+    margin : auto;
+    margin-top: 30vh;
+}
+#count-el{
+    font-size:20px;
+    font-family:fantasy;
+}
+
+button{
+    
+    display: block;
+     width: 150px;
+     height: 25px;
+    margin: 0 auto;
+    /* padding: 10px 60px; */
+    border-radius: 10%;
+    
+}
+
+.save{
+    background-color: green;
+    margin-top: 15px;
+}
+.increment{
+    background-color: brown;
+}
