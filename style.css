@@ -4,7 +4,7 @@ body{
     background-image: url(pxfuel\ \(3\).jpg);
     background-position: center;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -19,7 +19,7 @@ border-radius: 50%;
 .content{
     width: 40%;
     height: 30%;
-    background-color: #4a19b6be  ;
+    background-color: #ddd  ;
     border: rgba(209, 31, 31, 0.288) 3px solid; 
     border-radius: 10%;
     text-align: center; 
