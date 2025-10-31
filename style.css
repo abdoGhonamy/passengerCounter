@@ -1,13 +1,13 @@
 body{
     height: 100%;
     width: 100%;
-    background-image: url(pxfuel\ \(3\).jpg);
-    background-position: top;
-    ba
+    background-image: url(5f81535b-e6ad-4c54-9b2f-5b920fb19689.jpg);
+    background-position: cover;
+    
 }
 
 .content{
-    width: 80%;
+    width: 20%;
     height: 30%;
     background-color: #ddd  ;
     border: black 3px solid; 
@@ -38,4 +38,9 @@ button{
 }
 .increment{
     background-color: brown;
+}
+
+
+.love{
+    color: red;
 }
