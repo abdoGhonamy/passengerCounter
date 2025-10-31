@@ -1,9 +1,14 @@
 body{
     height: 100%;
     width: 100%;
-    background-image: url(5f81535b-e6ad-4c54-9b2f-5b920fb19689.jpg);
-    background-position: left;
-    
+    background-image: url(pxfuel\ \(3\).jpg);
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+width: 300px;
 }
 
 .content{
